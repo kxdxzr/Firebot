@@ -3,7 +3,7 @@ A simulation of a controlled burn. Trees of various heights are scattered throug
 Done in 2018
 
 
-Usage: python firebot.py <seed> <width> <height>  
+Usage: python firebot.py \<seed\> \<width\> \<height\>  
 seed for the random number generator;  
 Different seed values will yield different tree heights.  
 width of the land;  
